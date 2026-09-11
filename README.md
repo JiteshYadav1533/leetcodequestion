@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
