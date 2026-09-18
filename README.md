@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
