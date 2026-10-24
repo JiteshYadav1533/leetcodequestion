@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0567-permutation-in-string) |
