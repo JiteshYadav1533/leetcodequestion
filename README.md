@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0283-move-zeroes) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/JiteshYadav1533/leetcodequestion/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
