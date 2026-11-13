@@ -1,6 +1,9 @@
 class Solution {
 public:
     int solve(vector<int>& arr , int s,int e){
+        if(s>e)
+        return -1;
+        
         if(s==e)
         return s;
         int mid=s+(e-s)/2;
